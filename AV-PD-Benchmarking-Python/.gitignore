@@ -1,0 +1,21 @@
+# models
+*.pt
+weights/
+
+# datasets
+datasets/*
+
+# images
+*.jpg
+*.png
+
+# vscode
+.vscode/
+
+# python
+__pycache__/
+*.pyc
+
+# results
+results/
+runs/
