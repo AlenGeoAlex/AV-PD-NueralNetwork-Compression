@@ -1,0 +1,11 @@
+path: Dataset/merged_dataset/
+
+train: images/train
+val: images/val
+test: images/test
+nc: 4
+names:
+- pedestrian
+- cyclist
+- car
+- large_vehicle
